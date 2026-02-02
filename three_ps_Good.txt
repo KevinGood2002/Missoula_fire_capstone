@@ -1,0 +1,4 @@
+2/1/2026 - Progress: This week I cleaned out incident types and started exploring to see if there are any obvious changes that certain variables cause to the processing times
+Problems: Waiting on access tot he image trend data
+Plans once I get the image trend data I will make sure it uploads to powerBI so I can begin work on the live dashboard
+Hours: 1.5
