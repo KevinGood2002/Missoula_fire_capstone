@@ -1,3 +1,7 @@
+2/8/2026 - Progress This week I ran analyses on the data discovering some trends. I spoke with Philip and he is getting me closer to having access to the image trend system.
+Problems: I am trying to decide where the power Power BI folder will live once I am done with this capstone. I am unfamiliar with the fire departments IT structure. Philip mentioned that they have TV's at each station that he hopes to have dashboard displayed on. I will have to look in to the best ways to share a dashboard to multiple locations.
+Plans: Work on a potential regression based on time for the analysis, Find out how to get live data into a usable format for power BI.
+Hours 2
 2/1/2026 - Progress: This week I cleaned out incident types and started exploring to see if there are any obvious changes that certain variables cause to the processing times
 Problems: Waiting on access tot he image trend data
 Plans once I get the image trend data I will make sure it uploads to powerBI so I can begin work on the live dashboard
