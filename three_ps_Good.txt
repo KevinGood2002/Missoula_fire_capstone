@@ -1,3 +1,7 @@
+2/15/2026 Progress This week I got access tot he image trend systems. I think I need different permissions to get full access to the data.
+Problems: I need different permissions to get full access to the image trend data.
+Plans: I will be emailing Matt tomorrow to see the feasability of using powerBI for the dasboard. I will be emailing Philip to see about getting access to image trend 
+Hours 1.5
 2/8/2026 - Progress This week I ran analyses on the data discovering some trends. I spoke with Philip and he is getting me closer to having access to the image trend system.
 Problems: I am trying to decide where the power Power BI folder will live once I am done with this capstone. I am unfamiliar with the fire departments IT structure. Philip mentioned that they have TV's at each station that he hopes to have dashboard displayed on. I will have to look in to the best ways to share a dashboard to multiple locations.
 Plans: Work on a potential regression based on time for the analysis, Find out how to get live data into a usable format for power BI.
