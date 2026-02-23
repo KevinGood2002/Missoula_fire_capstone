@@ -1,3 +1,7 @@
+2/22/2026 Progress- I got Imagetrend working and did a lot off research on how to pull data from this platform. I have emailed the Fire department's Image trend correspondant about obtaining an API key. I spoke with Matt and will be using the web based PowerBI platform for this project. I think this makes the most sense because the department displays media on their TVs with via web browser. 
+Problems: I will need to make sure the Imagetrend correspondant is Okay with me getting the API key.
+Plans: I have a good plan on the flow of data now. I will set up a program that will pull the data daily through their API and save it to a share point. I was originally thinking python, but I need to brainstorm what would work best for them. Power BI will pull the data from the share point.
+
 2/15/2026 Progress This week I got access tot he image trend systems. I think I need different permissions to get full access to the data.
 Problems: I need different permissions to get full access to the image trend data.
 Plans: I will be emailing Matt tomorrow to see the feasability of using powerBI for the dasboard. I will be emailing Philip to see about getting access to image trend 
