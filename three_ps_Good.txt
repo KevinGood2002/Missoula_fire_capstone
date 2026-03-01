@@ -1,3 +1,8 @@
+3/1/2026 - Progress - I have started working on the base of the script to pull the data from the API.
+
+Problems - The correspondant at ImageTrend wants me to use their UI system to pull data, but that would not make let the dasboard be automated and live like I would like,
+Plans - Update on pulling the data into share point. I plan on using Power automate which is in the suite of Microsoft 365 to pull into the sharepoint but I will need to contact Matt about that.
+
 2/22/2026 Progress- I got Imagetrend working and did a lot off research on how to pull data from this platform. I have emailed the Fire department's Image trend correspondant about obtaining an API key. I spoke with Matt and will be using the web based PowerBI platform for this project. I think this makes the most sense because the department displays media on their TVs with via web browser. 
 Problems: I will need to make sure the Imagetrend correspondant is Okay with me getting the API key.
 Plans: I have a good plan on the flow of data now. I will set up a program that will pull the data daily through their API and save it to a share point. I was originally thinking python, but I need to brainstorm what would work best for them. Power BI will pull the data from the share point.
