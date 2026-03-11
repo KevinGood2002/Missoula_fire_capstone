@@ -16,18 +16,23 @@ The goal of this pipeline is to create a repeatable workflow that updates dashbo
 
 ## Repository Structure
 
+## Repository Structure
+
+```
 Missoula_fire_capstone/
 │
 ├── data/
-│ Raw or cleaned dispatch datasets used in the analysis
+│   Raw or cleaned dispatch datasets used in the analysis
 │
 ├── python_scripts/
-│ Python scripts used for data cleaning, exploratory analysis, and modeling
+│   Python scripts used for data cleaning, exploratory analysis, and modeling
 │
 ├── outputs/
-│ Generated results such as summary tables, figures, and processed datasets
+│   Generated results such as summary tables, figures, and processed datasets
 │
 └── README.md
+    Project documentation and overview
+```
 
 ## Key Focus Areas
 
