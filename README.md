@@ -15,3 +15,34 @@ Dispatch data is processed and automated using Microsoft tools:
 The goal of this pipeline is to create a repeatable workflow that updates dashboards automatically as new data becomes available.
 
 ## Repository Structure
+
+Missoula_fire_capstone/
+│
+├── data/
+│ Raw or cleaned dispatch datasets used in the analysis
+│
+├── python_scripts/
+│ Python scripts used for data cleaning, exploratory analysis, and modeling
+│
+├── outputs/
+│ Generated results such as summary tables, figures, and processed datasets
+│
+└── README.md
+
+## Key Focus Areas
+
+- Dispatch time analysis
+- Turnout time performance
+- Identification of operational trends in fire response data
+- Data automation and dashboard integration
+
+## Tools Used
+
+- Python (pandas, numpy, matplotlib, statsmodels)
+- Microsoft Power Automate
+- Microsoft Power BI
+
+## Author
+
+Kevin Good  
+University of Montana
