@@ -1,3 +1,20 @@
+3/1/2026 - Progress - I have started working on the base of the script to pull the data from the API.
+
+Problems - The correspondant at ImageTrend wants me to use their UI system to pull data, but that would not make let the dasboard be automated and live like I would like,
+Plans - Update on pulling the data into share point. I plan on using Power automate which is in the suite of Microsoft 365 to pull into the sharepoint but I will need to contact Matt about that.
+
+2/22/2026 Progress- I got Imagetrend working and did a lot off research on how to pull data from this platform. I have emailed the Fire department's Image trend correspondant about obtaining an API key. I spoke with Matt and will be using the web based PowerBI platform for this project. I think this makes the most sense because the department displays media on their TVs with via web browser. 
+Problems: I will need to make sure the Imagetrend correspondant is Okay with me getting the API key.
+Plans: I have a good plan on the flow of data now. I will set up a program that will pull the data daily through their API and save it to a share point. I was originally thinking python, but I need to brainstorm what would work best for them. Power BI will pull the data from the share point.
+
+2/15/2026 Progress This week I got access tot he image trend systems. I think I need different permissions to get full access to the data.
+Problems: I need different permissions to get full access to the image trend data.
+Plans: I will be emailing Matt tomorrow to see the feasability of using powerBI for the dasboard. I will be emailing Philip to see about getting access to image trend 
+Hours 1.5
+2/8/2026 - Progress This week I ran analyses on the data discovering some trends. I spoke with Philip and he is getting me closer to having access to the image trend system.
+Problems: I am trying to decide where the power Power BI folder will live once I am done with this capstone. I am unfamiliar with the fire departments IT structure. Philip mentioned that they have TV's at each station that he hopes to have dashboard displayed on. I will have to look in to the best ways to share a dashboard to multiple locations.
+Plans: Work on a potential regression based on time for the analysis, Find out how to get live data into a usable format for power BI.
+Hours 2
 2/1/2026 - Progress: This week I cleaned out incident types and started exploring to see if there are any obvious changes that certain variables cause to the processing times
 Problems: Waiting on access tot he image trend data
 Plans once I get the image trend data I will make sure it uploads to powerBI so I can begin work on the live dashboard
